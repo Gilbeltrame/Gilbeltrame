@@ -1,5 +1,5 @@
 ### Hi there, I'm a front-end developer working with ReactJS 👋
-# 🔭 I’m currently working with React.JS, Redux and Chakra-UI
+#### 🔭 I’m currently working with React.JS, Redux and Chakra-UI
 
 <!--
 **Gilbeltrame/Gilbeltrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
