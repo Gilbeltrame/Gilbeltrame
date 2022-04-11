@@ -1,4 +1,4 @@
-### Hi there, I'm a front-end developer working with ReactJS 👋
+### Hi there, I'm a front-end developer 👋
 #### 💬 I’m currently working with React.JS, Redux and Chakra-UI
 
 <!--
