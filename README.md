@@ -1,6 +1,7 @@
-### Hi there, I'm a front-end developer 👋
-#### 💬 I’m currently working with React.JS, Redux and Chakra-UI
+### Hi there,
+#### 💬 I’m currently working with NodeJS, TS, React.JS, Redux and Chakra-UI
 
+## 👯 I’m looking to collaborate on T3 stack apps :)
 <!--
 **Gilbeltrame/Gilbeltrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
