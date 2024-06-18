@@ -1,7 +1,8 @@
 ### Hi there,
-#### 💬 I’m currently working with NodeJS, TS, React.JS, Redux and Chakra-UI
+#### 💬 I’m currently working with NodeJS, TS, React.JS, Next.js and TailwindCSS
 
-##### 😄 T3 stack apps <3
+#### I’m currently learning about IA, Langchain and AI/SDK
+
 <!--
 **Gilbeltrame/Gilbeltrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
