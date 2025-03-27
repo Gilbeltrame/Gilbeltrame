@@ -1,7 +1,7 @@
 ### Hi there,
 #### 💬 I’m currently working with NodeJS, TS, React.JS, Next.js and TailwindCSS
 
-#### I’m currently learning about IA, Langchain and AI/SDK
+#### Learning about IA, Langchain and AI/SDK
 
 
 
